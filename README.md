@@ -1,32 +1,13 @@
 # Introduction
 
-## Template Usage
+## 翻译
 
-1. Go to [gitbook-template](https://github.com/airdb-template/gitbook)
-2. Click `Use this template`
-3. Configure `GithubBotToken` for github action. `Setting` -> `Secrets` -> `Add
-   a new secret`
+[Machine Learning With Go](https://www.oreilly.com/library/view/machine-learning-with/9781785882104/)
 
+[Machine Learning With Go](https://www.oreilly.com/library/view/machine-learning-with/9781785882104/)
 
-## Gitbook
+[PDF: Machine Learning With Go](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://raw.githubusercontent.com/KeKe-Li/book/master/Go/Machine-Learning-With-Go.pdf)
 
-### Installation
+[Source Code](https://github.com/PacktPublishing/Machine-Learning-With-Go-Second-Edition)
 
-```
-sudo npm install -g gitbook-cli
-gitbook install
-```
-
-### Run and Build
-
-```
-gitbook serve
-gitbook build
-```
-
-
-### Reference
-
-[How to use Gitbook](http://www.vapicloud.com/books/gitbook/ch1/1-1-mac.html)
-
-[How to use Gitbook-2](http://www.chengweiyang.cn/gitbook/github-pages/README.html)
+机器学习 - Go 
